@@ -1,0 +1,8 @@
+{
+    "device_id" : 1,
+    "device_type" : "RPI",
+    "sensor_data" : {
+            "temperature" : 45,
+            "humidity" : 85
+    }
+}
